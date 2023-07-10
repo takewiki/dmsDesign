@@ -1,9 +1,9 @@
 # 设置app标题-----
 
-app_title <-'棱星数据中台演示版V1.0';
+app_title <-'棱星数据中台设计版V1.0';
 
 # store data into rdbe in the rds database
-app_id <- 'dmsDemo'
+app_id <- 'dmsDesign'
 #upload all the library
 
 #设置链接---
